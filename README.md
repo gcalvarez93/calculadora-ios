@@ -1,4 +1,4 @@
-##Calculadora iOS
+# Calculadora iOS
 
 Clon de la calculadora del iPhone desarrollado con SwiftUI.
 
